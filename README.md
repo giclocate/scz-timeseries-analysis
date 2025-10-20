@@ -1,4 +1,4 @@
-# 🦟 Análise Epidemiológica da Síndrome Congênita do Zika (SCZ) em Pernambuco
+# Análise Epidemiológica da Síndrome Congênita do Zika (SCZ) em Pernambuco
 
 ## 📊 Análise Temporal, Espacial e Estatística (2015-2024)
 
@@ -52,18 +52,12 @@ O estudo aborda três dimensões principais:
 │   ├── scz_pernambuco_tabela3.csv            # Características dos casos
 │   └── municipios_pe.shp                     # Shapefile IBGE (opcional)
 │
-├── 📈 outputs/
-│   ├── analise_temporal_scz.png              # Gráficos temporais
-│   ├── analise_espacial_scz.png              # Gráficos espaciais
-│   ├── analise_caracteristicas_scz.png       # Gráficos de características
-│   └── dashboard_scz_completo.png            # Dashboard executivo
 │
 ├── 📄 relatório/
 │   ├── relatorio_zika.pdf             # Relatório em PDF
 │
 │
 │
-├── 📋 requirements.txt                        # Dependências Python
 ├── 📖 README.md                               # Este arquivo
 
 ```
