@@ -254,49 +254,6 @@ Acesse o [relatório técnico completo](relatorios/relatorio_tecnico_scz.md) com
 - Conclusões e recomendações
 - Referências bibliográficas
 
-### 📊 Apresentação de Slides
-
-[Em desenvolvimento] Slides para apresentação dos resultados
-
----
-
-## 🤝 Contribuições
-
-Contribuições são bem-vindas! Para contribuir:
-
-1. Faça um **fork** do projeto
-2. Crie uma **branch** para sua feature (`git checkout -b feature/NovaAnalise`)
-3. **Commit** suas mudanças (`git commit -m 'Adiciona nova análise espacial'`)
-4. **Push** para a branch (`git push origin feature/NovaAnalise`)
-5. Abra um **Pull Request**
-
-### 💡 Sugestões de Melhorias
-
-- [ ] Análise de autocorrelação espacial (Moran's I)
-- [ ] Modelos preditivos (ARIMA, Prophet)
-- [ ] Análise de fatores socioeconômicos
-- [ ] Dashboard interativo (Plotly Dash ou Streamlit)
-- [ ] Análise de séries temporais com quebras estruturais
-- [ ] Integração com dados climáticos
-
----
-
-## 📄 Citação
-
-Se você utilizar este trabalho, por favor cite:
-
-```bibtex
-@misc{almeida2025scz,
-  author = {Almeida, Giovanna Clócate Cavalcante de},
-  title = {Análise Epidemiológica da Síndrome Congênita do Zika em Pernambuco (2015-2024)},
-  year = {2025},
-  publisher = {GitHub},
-  journal = {GitHub repository},
-  howpublished = {\url{https://github.com/seu-usuario/scz-pernambuco-analise}}
-}
-```
-
----
 
 ## 📜 Licença
 
