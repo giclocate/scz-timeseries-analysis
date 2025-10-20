@@ -118,11 +118,6 @@ jupyter notebook
 # Execute o script standalone
 python scripts/analise_scz.py
 ```
-
-### Opção 3: Google Colab
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/seu-usuario/scz-pernambuco-analise/blob/main/notebooks/analise_scz_pernambuco.ipynb)
-
 ---
 
 ## 📊 Dados Utilizados
@@ -178,33 +173,6 @@ Período: SE 30/2015 a SE 52/2024
 | **Spearman (Tendência)** | ρ = -0,976 | < 0,001 | Forte declínio temporal |
 | **Qui-quadrado Espacial** | χ² = 897,3 | < 0,001 | Concentração espacial |
 | **Teste Binomial (Sexo)** | Z = 12,7 | < 0,001 | Predominância feminina |
-
----
-
-## 📸 Visualizações Geradas
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="outputs/analise_temporal_scz.png" width="400px" alt="Análise Temporal"/><br>
-      <b>Análise Temporal</b>
-    </td>
-    <td align="center">
-      <img src="outputs/analise_espacial_scz.png" width="400px" alt="Análise Espacial"/><br>
-      <b>Distribuição Espacial</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="outputs/analise_caracteristicas_scz.png" width="400px" alt="Características"/><br>
-      <b>Características dos Casos</b>
-    </td>
-    <td align="center">
-      <img src="outputs/dashboard_scz_completo.png" width="400px" alt="Dashboard"/><br>
-      <b>Dashboard Executivo</b>
-    </td>
-  </tr>
-</table>
 
 ---
 
